@@ -2,5 +2,5 @@ folder: problem
 samples:
     - cases: '[1..4]'
 title:
-    en: Max Subarray Sum eac30e
+    en: Max Subarray Sum v2 bed3
 version: 2
