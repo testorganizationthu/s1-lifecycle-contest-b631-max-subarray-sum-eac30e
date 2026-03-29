@@ -1,0 +1,6 @@
+folder: problem
+samples:
+    - cases: '[1..4]'
+title:
+    en: Max Subarray Sum eac30e
+version: 2
